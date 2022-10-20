@@ -4,7 +4,7 @@ FULL STACK DEVELPOMENT INTERNSHIP EDUREKA
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Nikhil-red)](https://www.youtube.com/channel/UCUTJ19vgPb5GSlvB6ePD0xw)
 [![Linkedin Badge](https://img.shields.io/badge/-Nikhil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikhil-kurmi-8a1b0b218/)](https://www.linkedin.com/in/nikhil-kurmi-8a1b0b218/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Nikhil-yellow)](https://stackoverflow.com/users/3687251/Nikhil-)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Nikhil-yellow)](https://stackoverflow.com/users/19903074/nikhil-kurmi)
 [![Website Badge](https://img.shields.io/badge/twitter-Nikhil-blue)](https://twitter.com/143Smier?s=09)
 [![Website Badge](https://img.shields.io/badge/instagram-Nikhil-red)](https://www.instagram.com/fake_smiler_52/)
 
